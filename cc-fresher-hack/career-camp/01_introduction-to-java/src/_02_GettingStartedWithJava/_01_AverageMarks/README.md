@@ -12,17 +12,19 @@ All the test marks are in integers and hence calculate the average in integer as
 
 **Detailed Explanation** ( Input/output format, Notes, Images )
 
-**Input format:**
+***Input format:***
 
 Line 1 : Name(Single character)
 
 Line 2 : Marks scored in the 3 tests separated by single space.
 
-**Output format:**
+***Output format:***
 
 First line of output prints the name of the student.
 
 Second line of the output prints the average mark.
+
+---
 
 **Constraints:**
 
@@ -32,14 +34,14 @@ Marks for each student lie in the range 0 to 100 (both inclusive)
 
 **Sample Test 1:**
 
-> ***Input:***
->
+*Input:*
+
 > R
 >
 > 0 100 99
->
-> ***Output:***
->
+
+*Output:*
+
 > R
 >
 > 66
